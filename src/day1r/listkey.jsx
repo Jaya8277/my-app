@@ -10,7 +10,7 @@ const Listkey = ()=>{
           <li>iPhone</li>
           <li>Windows Phone</li>
       </ul>
-      <h1>Mobile Manufactures</h1>
+      <h1>Mobile Manufacturers</h1>
       <ul>
           <li>Sumsung</li>
           <li>HTC</li>
